@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## ✅ README.md
 
 ````markdown
@@ -96,3 +97,7 @@ This PR includes:
 
 
 ```
+=======
+# Q1_26_OIskenderov
+Turbine trainings \ Rust Lang \ Anchor Framework \ Application \ Guessing Game Project
+>>>>>>> 8017d48feec5e5c4a88e81543dd7f149d56430ff
