@@ -75,7 +75,6 @@ This PR includes:
 * Transaction signature hash
 * Evidence of successful deployment and execution
 
----
 
 ### Mint NFT Create
 
@@ -96,8 +95,6 @@ https://explorer.solana.com/tx/4npzmW21jzkjX6GzC1ZHuBw7nqEE711PzTcruh924xSVnaFhh
 Mint Address:  FZGJTAyRkMx5oHEJpmr2QvuSE5JX2wbzaAVEh9FqtTSX
 
 https://explorer.solana.com/address/FZGJTAyRkMx5oHEJpmr2QvuSE5JX2wbzaAVEh9FqtTSX?cluster=devnet
-
-```
 
 ## 📷 Screenshots
 
