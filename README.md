@@ -1,4 +1,8 @@
 <<<<<<< HEAD
+=======
+# Q1_26_OIskenderov
+Turbine trainings \ Rust Lang \ Anchor
+
 ## ✅ README.md
 
 ````markdown
@@ -73,19 +77,28 @@ This PR includes:
 
 ---
 
-## 👤 Author
-
-**Orkhan Iskandarov**
-
-```
-
----
-
-### 📁 Repo structure
-
-```
-
 ### Mint NFT Create
+
+```
+### My Awesome NFT
+
+nft_image:
+Your image URI:  [
+  'https://gateway.irys.xyz/28k7M1BtWCAyc28vZ63a5CqNLTfB49M6vzX1dUeWCduS'
+]
+
+nft_metadata:
+Your metadata URI:  https://gateway.irys.xyz/2ZchV9e3UJUFPXf7DJcMPLHLGUHRBgvnNmjGWuTuQQYX
+
+nft_mint:
+Succesfully Minted! Check out your TX here:
+https://explorer.solana.com/tx/4npzmW21jzkjX6GzC1ZHuBw7nqEE711PzTcruh924xSVnaFhhYRX2ti9ms4hDB7UK7pxqajTW6ArJrrgN8TYWqdZ?cluster=devnet
+Mint Address:  FZGJTAyRkMx5oHEJpmr2QvuSE5JX2wbzaAVEh9FqtTSX
+
+https://explorer.solana.com/address/FZGJTAyRkMx5oHEJpmr2QvuSE5JX2wbzaAVEh9FqtTSX?cluster=devnet
+
+```
+
 ## 📷 Screenshots
 
 [!Account_inputs]    (./images/nft_images/Account_inputs.png)
@@ -95,9 +108,6 @@ This PR includes:
 [!Transaction_hist] (./images/nft_images/Transaction_hist.png)
 [!Transaction_send] (./images/nft_images/Transaction_send.png)
 
+## 👤 Author
 
-```
-=======
-# Q1_26_OIskenderov
-Turbine trainings \ Rust Lang \ Anchor Framework \ Application \ Guessing Game Project
->>>>>>> 8017d48feec5e5c4a88e81543dd7f149d56430ff
+**Orkhan Iskandarov**
