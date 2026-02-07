@@ -91,10 +91,10 @@ Your metadata URI:  https://gateway.irys.xyz/2ZchV9e3UJUFPXf7DJcMPLHLGUHRBgvnNmj
 
 ### nft_mint:
 Succesfully Minted! Check out your TX here:
-[!https://explorer.solana.com/tx/4npzmW21jzkjX6GzC1ZHuBw7nqEE711PzTcruh924xSVnaFhhYRX2ti9ms4hDB7UK7pxqajTW6ArJrrgN8TYWqdZ?cluster=devnet]
+https://explorer.solana.com/tx/4npzmW21jzkjX6GzC1ZHuBw7nqEE711PzTcruh924xSVnaFhhYRX2ti9ms4hDB7UK7pxqajTW6ArJrrgN8TYWqdZ?cluster=devnet
 Mint Address:  FZGJTAyRkMx5oHEJpmr2QvuSE5JX2wbzaAVEh9FqtTSX
 
-[!https://explorer.solana.com/address/FZGJTAyRkMx5oHEJpmr2QvuSE5JX2wbzaAVEh9FqtTSX?cluster=devnet]
+https://explorer.solana.com/address/FZGJTAyRkMx5oHEJpmr2QvuSE5JX2wbzaAVEh9FqtTSX?cluster=devnet
 
 ## 📷 Screenshots
 
