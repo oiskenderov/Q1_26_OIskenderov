@@ -1,7 +1,7 @@
-<<<<<<< HEAD
 =======
 # Q1_26_OIskenderov
 Turbine trainings \ Rust Lang \ Anchor
+=======
 
 ## ✅ README.md
 
