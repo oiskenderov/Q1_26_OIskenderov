@@ -75,10 +75,10 @@ This PR includes:
 * Transaction signature hash
 * Evidence of successful deployment and execution
 
+----------------------------------------
 
 ### Mint NFT Create
 
-```
 ### My Awesome NFT
 
 ### nft_image:
@@ -98,12 +98,12 @@ https://explorer.solana.com/address/FZGJTAyRkMx5oHEJpmr2QvuSE5JX2wbzaAVEh9FqtTSX
 
 ## 📷 Screenshots
 
-[!Account_inputs]    (./images/nft_images/Account_inputs.png)
-[!Activity]         (./images/nft_images/Activity.png)
-[!Collectibles]     (./images/nft_images/Collectibles.png)
-[!portfolio]       (./images/nft_images/portfolio.png)
-[!Transaction_hist] (./images/nft_images/Transaction_hist.png)
-[!Transaction_send] (./images/nft_images/Transaction_send.png)
+[!Account_inputs](./images/nft_images/Account_inputs.png)
+[!Activity](./images/nft_images/Activity.png)
+[!Collectibles](./images/nft_images/Collectibles.png)
+[!portfolio](./images/nft_images/portfolio.png)
+[!Transaction_hist](./images/nft_images/Transaction_hist.png)
+[!Transaction_send](./images/nft_images/Transaction_send.png)
 
 ## 👤 Author
 
